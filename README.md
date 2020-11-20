@@ -17,6 +17,7 @@ A simple, intuitive, SEO-aware, and accessibility in mind.
 - `.nvmrc` configured with LTS NodeJS for full ICU support on supported CI's
 
 ### Getting started
-1. Clone the repo to your local machine
-2. Run `yarn` or `npm install`
-3. Start the development server `yarn dev` or `npm run dev`
+1. Generate a new repo using this repo (this repo is a template)
+2. Clone the repo to your local machine
+3. Run `yarn` or `npm install`
+4. Start the development server `yarn dev` or `npm run dev`
